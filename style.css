@@ -1,0 +1,20 @@
+/* Gradient Instagram */
+.ig-gradient {
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+}
+
+/* Pola latar hero */
+.hero-pattern {
+    background-color: #700B0B;
+    background-image: radial-gradient(#8B1111 2px, transparent 2px);
+    background-size: 24px 24px;
+}
+
+/* Rotasi badge / sticker */
+.badge-rotate {
+    transform: rotate(-3deg);
+}
+
+.badge-rotate-right {
+    transform: rotate(3deg);
+}
